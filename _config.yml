@@ -1,0 +1,28 @@
+name: Up&Up
+favicon: null
+layout_spectrum: 0.4537720971275121
+typography_spectrum: 0.49474603962153196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20982372690923512
+  lightness: 0.2557755981106311
+  saturation: 0.5515644019469619
+  rhythmicContrast: 0.6872119947802275
+purpose: []
