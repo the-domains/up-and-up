@@ -1,6 +1,6 @@
 name: Up&Up
 favicon: null
-layout_spectrum: 0.4537720971275121
+layout_spectrum: 0
 typography_spectrum: 0.49474603962153196
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.20982372690923512
-  lightness: 0.2557755981106311
-  saturation: 0.5515644019469619
-  rhythmicContrast: 0.6872119947802275
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
